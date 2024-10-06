@@ -15,5 +15,4 @@ A job portal application where users can browse and create job postings.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/M-SanaUllah0764/job-portal.git
-cd job-portal
+git clone https://github.com/M-SanaUllah0764/job-portal-frontend.git
